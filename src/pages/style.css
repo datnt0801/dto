@@ -1,0 +1,26 @@
+.dashboard {
+  margin: 0%;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  /* justify-content: space-around; */
+  /* background-color: blueviolet; */
+}
+
+.todolist {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  /* padding: 10px; */
+  /* padding-top: 0px; */
+  background-color: blue;
+}
+
+.category {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  /* padding: 10px; */
+  /* padding-top: 0px; */
+  background-color: hotpink;
+}

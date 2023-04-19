@@ -1,0 +1,52 @@
+- Todo List App
+
+  - Data schema
+    
+    - Todo list attributes:
+      - title // input text
+      - content // input text
+      - reminderTime // Time picker => BTVN
+      - category // Select
+      - createdAt // auto
+      - updatedAt // auto
+
+    - Category attributes
+      - title // input text
+      - color // color picker 
+      - priority // input text => BTVN 
+      - createdAt
+      - updatedAt
+
+
+  - Add a todo list 
+    
+  - Edit todo list
+
+  - Add category
+
+  - Edit category
+
+
+
+- state props
+- class component (life cycle) / function component (hooks)
+
+- class component life cycle:
+  - componentWillMount
+  - componentDidMount
+  - render() 
+  - componentWillUnmount
+
+- function component hooks:
+  - useState 
+  - useEffect
+  - useCallback
+  - useMemo
+  - useDispath (redux)
+  - useSelector (redux)
+  - use....
+
+- react router, local storage, session storage, 
+- axios, call api, cookie, authentication, refresh token
+
+
